@@ -1,0 +1,2 @@
+# socks
+nextflow run socks
